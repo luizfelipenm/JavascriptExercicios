@@ -1,5 +1,5 @@
 # JavascriptExercicios
-Luiz Felipe Nascimento Mota <br> Curso: GTI
+Luiz Felipe Nascimento Mota & Curso: GTI
 <br>
 name <br> Curso:
 <br>
